@@ -1,0 +1,27 @@
+{
+  "name": "Template-Engine-for-Team-Summary",
+  "version": "1.0.0",
+  "description": "A Node CLI that takes in employee data for development teams and renders them to an html page",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SabrinaCat/Template-Engine-for-Team-Summary.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SabrinaCat/Template-Engine-for-Team-Summary/issues"
+  },
+  "homepage": "https://github.com/SabrinaCat/Template-Engine-for-Team-Summary#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "inquirer": "^7.3.0"
+  },
+  "devDependencies": {
+    "jest": "^26.1.0"
+  }
+}
